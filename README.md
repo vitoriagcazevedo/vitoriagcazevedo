@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 👋🏽
 
 - 🌱 Desenvolvendo...
 - :books: Estudando JavaScript e SQL para Análise de Dados
