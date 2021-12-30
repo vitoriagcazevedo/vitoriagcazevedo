@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Desenvolvendo...
-- 🌱 Estudando JavaScript e SQL para Análise de Dados
-- 📫 Contato: vitoriagcazevedo@gmail.com
+- 🌱 Desenvolvendo...
+- :books: Estudando JavaScript e SQL para Análise de Dados
+- 📧 E-mail: vitoriagcazevedo@gmail.com
 - 😄 Pronomes: Ela/dela
